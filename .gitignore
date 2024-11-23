@@ -1,0 +1,10 @@
+config.env
+config_test.env
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+.idea/
